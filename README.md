@@ -1,2 +1,3 @@
-# code-kata
-Practice problems from http://codekata.com
+# Code Kata
+
+Practice problems from http://codekata.com.
